@@ -1,6 +1,6 @@
 # Demo Songs
 
-The approach for this demo has been to maintain a simple yet scalable architecture. This lays a solid foundation for future iterations, as it already addresses most of the essential requirements for a growing project.
+The approach for this demo has been to maintain a simple yet scalable architecture. This lays a solid foundation for future iterations, as it already addresses most of the essential requirements for a growing project, specially the unit test infrastructure, which is in place and ready to expand.
 
 **Lightweight monorepo-like setup:** leveraging **PNPM workspaces** to keep dependencies synchronized and streamline the management of code within the same domain.
 
